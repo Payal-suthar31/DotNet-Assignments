@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_2\\Project_2.csproj": {}
+    "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_3\\Project_3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_2\\Project_2.csproj": {
+    "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_3\\Project_3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_2\\Project_2.csproj",
-        "projectName": "Project_2",
-        "projectPath": "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_2\\Project_2.csproj",
+        "projectUniqueName": "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_3\\Project_3.csproj",
+        "projectName": "Project_3",
+        "projectPath": "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_3\\Project_3.csproj",
         "packagesPath": "C:\\Users\\PayalSuthar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_2\\obj\\",
+        "outputPath": "C:\\Users\\PayalSuthar\\Desktop\\Practice_assignment\\Project_3\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
